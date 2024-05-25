@@ -1,0 +1,15 @@
+
+
+
+.center{
+    background-color: bisque;
+    height: auto;
+    margin:0px,auto;
+    border: 3px solid;
+}
+.main{
+    text-align: center;
+}
+.image{
+    margin-left: 480px;
+}
